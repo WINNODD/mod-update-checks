@@ -1,5 +1,5 @@
 {
     "version": "1.0.3",
     "changelog": "- Supplier logic optimized. Entering safehouse should no longer cause crash (tried 10 times in a row).\n- Debug old layout should no longer cause crash.\n- Other minor tweaks.",
-    "url": "https://github.com/WINNODD/Comfy-Safehouse-Expansion/releases/download/1.0.3/Comfy.Safehouse.Expansion.zip"
+    "url": "https://github.com/WINNODD/Comfy-Safehouse-Expansion/releases/download/1.0.3/ComfySafehouseExpansion.zip"
 }
