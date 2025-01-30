@@ -1,5 +1,5 @@
 {
-    "version": "2.0.0",
-    "changelog": "New feature: Prestige objective removal",
-    "url": "https://github.com/WINNODD/Rogueless-Freelancer/releases/download/2.0.0/Rogueless-Freelancer.zip"
+    "version": "2.0.1",
+    "changelog": "Fix the issue where “level up anytime” and “persistent gear” can't deploy at the same time",
+    "url": "https://github.com/WINNODD/Rogueless-Freelancer/releases/download/2.0.1/Rogueless-Freelancer.zip"
 }
