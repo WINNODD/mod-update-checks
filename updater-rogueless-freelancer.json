@@ -1,5 +1,5 @@
 {
-    "version": "2.0.1",
-    "changelog": "Fix the issue where “level up anytime” and “persistent gear” can't deploy at the same time",
-    "url": "https://github.com/WINNODD/Rogueless-Freelancer/releases/download/2.0.1/Rogueless-Freelancer.zip"
+    "version": "2.0.2",
+    "changelog": "- Weapon in safehouse never vanish by itself, for real this time. \n-Fix the bug where Never Alert and Always Alert can't be deployed at the same time.",
+    "url": "https://github.com/WINNODD/Rogueless-Freelancer/releases/download/2.0.2/Rogueless-Freelancer.zip"
 }
