@@ -1,5 +1,5 @@
 {
-    "version": "1.1.1",
-    "changelog": "- Debug options no longer sticks with you",
-    "url": "https://github.com/WINNODD/Chameleonist-47/releases/download/1.1.1/Chameleonist.47.zip"
+    "version": "1.1.2",
+    "changelog": "- Fix whatever was broken in game version 3.220",
+    "url": "https://github.com/WINNODD/Chameleonist-47/releases/download/1.1.2/Chameleonist.47.zip"
 }
