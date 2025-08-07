@@ -1,5 +1,5 @@
 {
-    "version": "1.0.0",
-    "changelog": "Initial",
-    "url": "https://github.com/WINNODD/Briefcase-Carousel/releases/download/1.0.0/BriefcaseCarousel.zip"
+    "version": "1.1.0",
+    "changelog": "- 47 can no longer return briefcases by dropping them, as he always drops them when blending. Attempting to retrieve a dropped briefcase after blending would crash the game.\n- The only way to return briefcases is now through manual interaction with the carousel.\n- The briefcase 47 brings to a mission (if required) will always be the last one he held in the safehouse.",
+    "url": "https://github.com/WINNODD/Briefcase-Carousel/releases/download/1.1.0/BriefcaseCarousel.zip"
 }
