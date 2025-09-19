@@ -1,5 +1,5 @@
 {
-    "version": "2.0.0",
-    "changelog": "- Crashes have been fixed.\n- 7DS and Deluxe weapons now have a dedicated wall and remain permanently available if you own the corresponding DLC.\n- The weapon crate has been removed; all its contents are now placed on the wall.\n- NPCs now have different behaviors depending on the time of day.\n- Changing cosmetics no longer blocks interactions with NPCs, and vice versa.\n- Some katanas, shurikens and baseball bats were removed due to them being unrecognized by the server.\n- You no longer need to collect ALL weapons to unlock the "secret". Only the weapons added by this mod are required.\n- NPCs will always display all their items.\n- Other minor tweaks.",
-    "url": "https://github.com/WINNODD/Comfy-Safehouse-Expansion/releases/download/2.0.0/ComfySafehouseExpansion.zip"
+    "version": "2.0.1",
+    "changelog": "- The Guru grenade no longer wipes your inventory.\n- Reward crates no longer generate 7DS items.\n- The shooting range no longer causes guns to jam.",
+    "url": "https://github.com/WINNODD/Comfy-Safehouse-Expansion/releases/download/2.0.1/ComfySafehouseExpansion.zip"
 }
